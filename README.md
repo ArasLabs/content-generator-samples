@@ -15,6 +15,11 @@ Content Generators are server-side methods that populate a document element with
 * [Items](Samples/Items.md)
 * [Blocks](Samples/Blocks.md)
 
+Here are some other examples:
+
+* [Blog: Using Content Generators](http://community.aras.com/en/using-content-generators-tech-docs/)
+* [Project: Custom Tech Docs](https://github.com/ArasLabs/custom-tech-docs)
+
 ## Tips
 
 ### 1. Reference the Content Generator Method Template
